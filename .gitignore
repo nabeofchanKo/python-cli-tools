@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+data/todos.json
+data/train.csv
+data/Titanic-Dataset.csv
+output/
